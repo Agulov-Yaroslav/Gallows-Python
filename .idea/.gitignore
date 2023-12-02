@@ -1,0 +1,8 @@
+# Default ignored files
+/../../pythonGallows /.idea/shelf/
+/../../pythonGallows /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../pythonGallows /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../pythonGallows /.idea/dataSources/
+/../../pythonGallows /.idea/dataSources.local.xml
